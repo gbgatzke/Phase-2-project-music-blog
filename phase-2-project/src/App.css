@@ -1,0 +1,27 @@
+/* #root {
+  text-align: center;
+} */
+
+nav a.active {
+  background-color: black;
+  color: white;
+}
+
+/* img {
+  max-width: 300px;
+  height: auto;
+} */
+
+/* .album-image {
+  max-width: 75px;
+  height: auto;
+} */
+
+/* form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 1.75rem;
+} */

@@ -1,0 +1,184 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "artist": "Sam Evian",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ab5857312b13f3bf0125fb9/1621430559356-IGSA4A717EPY89K3SEE6/sam-evian-2.jpg?format=1500w",
+      "city": "Brooklyn, NY",
+      "album": "Time To Melt",
+      "albumImg": "https://f4.bcbits.com/img/a2913946098_10.jpg",
+      "release": "2021",
+      "website": "https://www.samevian.com/"
+    },
+    {
+      "id": 2,
+      "artist": "Art Feynman",
+      "image": "http://westernvinyl.com/images/artists/art-feynman.jpg",
+      "city": "Northern California, US",
+      "album": "Half Price at 3:30",
+      "albumImg": "https://media.pitchfork.com/photos/5f1088043145eda8a1c27d3b/1:1/w_600/Half%20Price%20at%203%E2%80%8B-%E2%80%8B30_art%20feynman.jpg",
+      "release": "2020",
+      "website": "https://artfeynman.bandcamp.com/"
+    },
+    {
+      "id": 3,
+      "artist": "Sam Cohen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sam_Cohen_by_Shawn_Brackbill.jpg/1200px-Sam_Cohen_by_Shawn_Brackbill.jpg",
+      "city": "Brooklyn, NY",
+      "album": "The Future's Still Ringing In My Ears",
+      "albumImg": "https://i.scdn.co/image/ab67616d0000b273b359b4d89234e03bc004437f",
+      "release": "2022",
+      "website": "https://en.wikipedia.org/wiki/Sam_Cohen_(musician)"
+    },
+    {
+      "id": 4,
+      "artist": "Furrows",
+      "image": "https://static.stereogum.com/uploads/2021/08/FurrowsHorizontal1-1629854056-scaled.jpg",
+      "city": "Brooklyn, NY",
+      "album": "Fisher King",
+      "albumImg": "https://f4.bcbits.com/img/a1734164713_10.jpg",
+      "release": "2021",
+      "website": "https://www.furrowsband.com/"
+    },
+    {
+      "artist": "David Bowie",
+      "image": "https://ychef.files.bbci.co.uk/976x549/p01j3jyb.jpg",
+      "city": "London, UK",
+      "album": "Hunky Dory",
+      "albumImg": "https://spectrumculture.com/wp-content/uploads/2020/07/hunky-dory-e1594846102325.jpeg",
+      "release": "1971",
+      "website": "https://www.davidbowie.com/",
+      "id": 5
+    },
+    {
+      "artist": "Gil Scott-Heron",
+      "image": "https://s3.amazonaws.com/allaboutjazz/photos/a_large/793da2a9c65db7cc231bfa9a10d76777.jpg",
+      "city": "New York, NY",
+      "album": "Secrets",
+      "albumImg": "https://i.discogs.com/FD2P9uZJaq1sngLfYhb77BbWhUuxBlW2aUf-k9T3Ycw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA3/Mjk4LTE1Njc5Njc1/ODYtMzM4Mi5qcGVn.jpeg",
+      "release": "1978",
+      "website": "https://gilscottheron.net/",
+      "id": 6
+    },
+    {
+      "artist": "Charlotte Gainsbourg",
+      "image": "https://i.guim.co.uk/img/media/6af4947f58093c4070cc3922dfb00d8f50e6f261/55_44_5814_7263/master/5814.jpg?width=700&quality=85&auto=format&fit=max&s=0601b6243dfad65c780cb4b13a192ad5",
+      "city": "London, UK",
+      "album": "IRM",
+      "albumImg": "https://images.fanart.tv/fanart/gainsbourg-charlotte-509b5d9c8d1aa.jpg",
+      "release": "2009",
+      "website": "https://www.charlotte-gainsbourg.com/",
+      "id": 7
+    },
+    {
+      "artist": "Erykah Badu",
+      "image": "https://media.newyorker.com/photos/590975ff1c7a8e33fb38f63a/master/w_2560%2Cc_limit/160425_r28041.jpg",
+      "city": "Dallas, TX",
+      "album": "Mama's Gun",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/4/4c/Erykah_Badu_-_Mama%27s_Gun.jpg",
+      "release": "2000",
+      "website": "http://erykah-badu.com/newssystem/news.php",
+      "id": 8
+    },
+    {
+      "artist": "Nina Simone",
+      "image": "https://iscale.iheart.com/v3/surl/aHR0cDovL2ltYWdlLmloZWFydC5jb20vaW1hZ2VzL292ZXJyaWRlLzE4MDQuanBn?sn=eGtleWJhc2UyMDIxMTExMDpmToL8rA2BMZpjaNReqI_mn0kTQPSSCmRKs_H-h98b4w%3D%3D&surrogate=1cOXl179JY-syhxYSCX6Q1a_Mcu6UO8d-F4oJzpZf1hcUbJr4aIkzNENAQHp1k9NBK_lyocNV1QjT63tOnkqRbxf82dIHcUy8dzqtfFg6GFqjMhIRWqIlh5ZztbWEHFutBcncKBoMhobYIqqBrd7VaAGMnnl9-K5v1jHdQOjWtHutUQiXnoeXfsS",
+      "city": "New York, NY",
+      "album": "It Is Finished",
+      "albumImg": "https://i.discogs.com/cnxJTDRbQYwImulAAGtXdd3ursOttw4dQtg6OTLi8Pc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEy/NTg1LTE1NjQzMjE4/OTUtNzE0Ny5qcGVn.jpeg",
+      "release": "1974",
+      "website": "https://www.ninasimone.com/",
+      "id": 9
+    },
+    {
+      "artist": "Derya Yıldırım & Grup Şimşek",
+      "image": "https://scenenoise.com/Content/Articles/Big_image/636795974875760361_46712847_1639716046129308_6731169477544640512_n(1).jpg",
+      "city": "Hamburg, DE",
+      "album": "Dost 2",
+      "albumImg": "https://f4.bcbits.com/img/a2186457661_16.jpg",
+      "release": "2022",
+      "website": "https://deryayildirimandgrupsimsek.bandcamp.com/",
+      "id": 10
+    },
+    {
+      "artist": "Delicate Steve",
+      "image": "https://guitar.com/wp-content/uploads/2019/03/delicate-steve-interview-lying-down@1400x1050.jpg",
+      "city": "Brooklyn, NY",
+      "album": "After Hours",
+      "albumImg": "https://f4.bcbits.com/img/a3506509962_10.jpg",
+      "release": "2022",
+      "website": "https://delicatesteve.com/",
+      "id": 11
+    },
+    {
+      "artist": "L'Rain",
+      "image": "https://static01.nyt.com/images/2021/06/25/arts/24lrain03/merlin_189385350_2bf97e71-cb95-4f5d-8142-dc1c0a153087-mobileMasterAt3x.jpg",
+      "city": "Brooklyn, NY",
+      "album": "L'Rain",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/c/c1/L%27Rain_album_cover.jpg",
+      "release": "2017",
+      "website": "https://www.lrain.info/",
+      "id": 12
+    },
+    {
+      "artist": "Alice Coltrane",
+      "image": "https://media.newyorker.com/photos/590980088b51cf59fc424569/master/w_2560%2Cc_limit/170424_r29830.jpg",
+      "city": "Detroit, MI",
+      "album": "Eternity",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/e/ee/Alice_Coltrane_Eternity.jpg",
+      "release": "1976",
+      "website": "https://www.alicecoltrane.com/",
+      "id": 13
+    },
+    {
+      "artist": "Hand Habits",
+      "image": "https://pbs.twimg.com/profile_images/1460739747194683396/KDcGf7FT_400x400.jpg",
+      "city": "Los Angeles, CA",
+      "album": "Fun House",
+      "albumImg": "https://media.pitchfork.com/photos/6108a4e59f4228091f6ea1c1/1:1/w_600/Hand%20Habits%20-%20Fun%20House%20_%20Album%20Art.jpg",
+      "release": "2021",
+      "website": "https://www.handhabits.band/",
+      "id": 14
+    },
+    {
+      "artist": "Air",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/458149/huge_avatar",
+      "city": "Versailles, FR",
+      "album": "10 000 Hz Legend",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/0/04/Air_-_10_000_Hz_Legend.png",
+      "release": "2001",
+      "website": "http://www.airfrenchband.com/",
+      "id": 15
+    },
+    {
+      "artist": "Tim Maia",
+      "image": "https://lightandshademen.files.wordpress.com/2016/05/tim_maia12.jpg?w=1200",
+      "city": "Rio de Janeiro, Brazil",
+      "album": "Existential Soul",
+      "albumImg": "https://media.npr.org/assets/img/2012/07/09/nobody-can-live-forever-tim-maia_custom-d60f8e02ed4ba35cc47f4e8b0d5932d343d6fcaf.jpg",
+      "release": "1971",
+      "website": "timmaia.com.br",
+      "id": 16
+    },
+    {
+      "artist": "Dungen",
+      "image": "https://i.guim.co.uk/img/media/15cdf11af0e8490073192e4b8cbb4d19d717c70a/0_59_3000_1800/master/3000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=a2cbf18da449d4c26cc364a79340c929",
+      "city": "Stockholm, SE",
+      "album": "Tio Batar",
+      "albumImg": "https://media.pitchfork.com/photos/5929b0869d034d5c69bf48b3/1:1/w_600/afb7a02e.jpg",
+      "release": "2007",
+      "website": "http://www.dungen-music.com/",
+      "id": 17
+    },
+    {
+      "artist": "Marvin Gaye",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Marvin_Gaye_%281973_publicity_photo%29.jpg",
+      "city": "Los Angeles, CA",
+      "album": "I Want You",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/e/e3/Marvin-gaye-i-want-you.jpg",
+      "release": "1976",
+      "website": "https://www.marvingaye.net/",
+      "id": 18
+    }
+  ]
+}
