@@ -39,7 +39,7 @@ function App() {
     setArtistList(updatedArtists)
   }
   return (
-    <div className="bg-green-600 p-8 font-all">
+    <div className="bg-purple-600 p-8 font-all">
       <NavBar/>
       <Routes>
 

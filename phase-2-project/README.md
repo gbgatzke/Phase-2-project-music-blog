@@ -6,8 +6,6 @@ Users will also be able to view a list of albums with album info.
 
 Users will be able to submit new artists with accompanying album.
 
-Users will be able to edit and delete artist and album information.
-
 Users will be able to search for artists or albums on both artist and albums pages.
 
 <!-- Users will be able to sort alphabetically on artist and album pages, and sort by release date on album page. -->
