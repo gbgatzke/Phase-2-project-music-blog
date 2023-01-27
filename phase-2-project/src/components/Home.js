@@ -14,7 +14,7 @@ function Home({ artistList }) {
                 <p className="text-lg pb-5">Welcome to TuneJar!</p>
                 <p className="pb-8">A new place to keep track of your favorite musical artists!</p>
             </section>
-            <div class="grid gap-75 grid-cols-3">
+            <div class="grid gap-75 grid-cols-3 m-8">
                 {displayArt}
             </div>
         </div>

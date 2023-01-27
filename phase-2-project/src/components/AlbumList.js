@@ -13,7 +13,7 @@ function AlbumList({ searchResults, setSearchQuery }) {
     return(
         <div>
             <div className="text-center pt-8">
-                <label>Search by Artist or Album:</label>
+                <label>Search by Artist, Album, or Release Date:</label>
                 <br/>
                 <input onChange={handleChange} type="text" placeholder='Search...'></input>
             </div>

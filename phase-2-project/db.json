@@ -179,6 +179,16 @@
       "release": "1976",
       "website": "https://www.marvingaye.net/",
       "id": 18
+    },
+    {
+      "artist": "Nick Hakim",
+      "image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcR9F0RMvCF1SV9UZfdR4l2nDrw_Qq2t3OC9v-5vXurd3tXDj8N4of0Yd4S3eP2ky4O5pIPawkAcNlS79fY",
+      "city": "Brooklyn, NY",
+      "album": "Green Twins",
+      "albumImg": "https://media.pitchfork.com/photos/5929c552eb335119a49ed9a5/1:1/w_600/e251248e.jpg",
+      "release": "2017",
+      "website": "https://nickhakim.com/",
+      "id": 19
     }
   ]
 }

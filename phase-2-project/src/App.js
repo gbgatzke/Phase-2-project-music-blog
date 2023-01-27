@@ -23,7 +23,9 @@ function App() {
 
   const searchResults = artistList.filter(band =>
     band.artist.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    band.album.toLowerCase().includes(searchQuery.toLowerCase())
+    band.album.toLowerCase().includes(searchQuery.toLowerCase()) || 
+    band.city.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    band.release.includes(searchQuery)
     )
   
   const onAddArtist = (newArtist) => {
@@ -37,7 +39,7 @@ function App() {
     setArtistList(updatedArtists)
   }
   return (
-    <div className='bg-green-600'>
+    <div className="bg-green-600 p-8 font-all">
       <NavBar/>
       <Routes>
 
