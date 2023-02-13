@@ -3,7 +3,7 @@ import ArtCard from "./ArtCard"
 
 function Home({ artistList }) {
 
-    const displayArt = artistList.map(band => 
+    const displayArt = artistList.map(band =>
         <ArtCard key={ band.id} band={band}/>
         )
 
@@ -18,8 +18,6 @@ function Home({ artistList }) {
                 {displayArt}
             </div>
         </div>
-        
-
     )
 }
 

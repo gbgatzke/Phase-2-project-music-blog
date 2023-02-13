@@ -25,9 +25,7 @@ function ArtistCard({ band, onDeleteArtist }) {
                     <div className="card-actions justify-center">
                         <button className="btn" onClick={handleClick}>Delete Artist</button>
                     </div>
-                
             </div>
-            
         </div>
 
     )

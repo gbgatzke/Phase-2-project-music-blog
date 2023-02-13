@@ -52,7 +52,7 @@ function NewArtistForm({ onAddArtist }) {
             placeholder="Artist"
           />
         </div>
-        
+
         <div className="p-3">
           <input
             className="input input-bordered w-full max-w-xs"
@@ -64,7 +64,7 @@ function NewArtistForm({ onAddArtist }) {
             placeholder="Image"
           />
         </div>
-        
+
         <div className="p-3">
           <input
             className="input input-bordered w-full max-w-xs"
@@ -76,7 +76,7 @@ function NewArtistForm({ onAddArtist }) {
             placeholder="City"
           />
         </div>
-        
+
         <div className="p-3">
           <input
             className="input input-bordered w-full max-w-xs"
@@ -88,7 +88,7 @@ function NewArtistForm({ onAddArtist }) {
             placeholder="Album"
           />
         </div>
-        
+
         <div className="p-3">
           <input
             className="input input-bordered w-full max-w-xs"
@@ -100,7 +100,7 @@ function NewArtistForm({ onAddArtist }) {
             placeholder="Album Image"
           />
         </div>
-          
+
         <div className="p-3">
           <input
             className="input input-bordered w-full max-w-xs"
@@ -112,7 +112,7 @@ function NewArtistForm({ onAddArtist }) {
             placeholder="Release Date"
           />
         </div>
-         
+
         <div className="p-3 pb-6">
           <input
             className="input input-bordered w-full max-w-xs"
@@ -121,7 +121,7 @@ function NewArtistForm({ onAddArtist }) {
             name="website"
             value={formData.website}
             onChange={handleChange}
-            placeholder="Website"     
+            placeholder="Website"
           />
         </div>
 

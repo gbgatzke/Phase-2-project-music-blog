@@ -189,6 +189,16 @@
       "release": "2017",
       "website": "https://nickhakim.com/",
       "id": 19
+    },
+    {
+      "artist": "TEEN",
+      "image": "http://www.audiofemme.com/wp-content/uploads/2014/04/teenpressphoto.png",
+      "city": "Brooklyn, NY",
+      "album": "Good Fruit",
+      "albumImg": "https://f4.bcbits.com/img/a2927970640_65",
+      "release": "2019",
+      "website": "",
+      "id": 20
     }
   ]
 }

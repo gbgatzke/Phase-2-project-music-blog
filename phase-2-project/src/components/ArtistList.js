@@ -3,8 +3,8 @@ import ArtistCard from './ArtistCard'
 
 function ArtistList({ searchResults, setSearchQuery, onDeleteArtist }) {
 
-    const displayArtists = searchResults.map(band => 
-            <ArtistCard key={band.id} band={band} onDeleteArtist={onDeleteArtist}/>  
+    const displayArtists = searchResults.map(band =>
+            <ArtistCard key={band.id} band={band} onDeleteArtist={onDeleteArtist}/>
         )
 
     const handleChange = (e) => {
@@ -18,13 +18,13 @@ function ArtistList({ searchResults, setSearchQuery, onDeleteArtist }) {
                 <br/>
                 <input onChange={handleChange} type="text" placeholder='Search...'></input>
             </div>
-            
+
             <div class="grid grid-cols-4 p-8">
                 {displayArtists}
             </div>
-            
+
         </div>
-        
+
     )
 }
 

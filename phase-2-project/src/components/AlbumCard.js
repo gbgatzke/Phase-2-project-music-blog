@@ -13,7 +13,6 @@ function AlbumCard({ band }) {
                 <h2>Artist: {artist}</h2>
                 <h3>Release date: {release}</h3>
             </div>
-            
         </div>
     )
 }

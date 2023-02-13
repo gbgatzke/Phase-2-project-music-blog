@@ -18,22 +18,22 @@ function App() {
   useEffect(() => {
       fetch("http://localhost:3000/artists")
       .then(r => r.json())
-      .then(list => setArtistList(list)) 
+      .then(list => setArtistList(list))
   },[])
 
   const searchResults = artistList.filter(band =>
     band.artist.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    band.album.toLowerCase().includes(searchQuery.toLowerCase()) || 
+    band.album.toLowerCase().includes(searchQuery.toLowerCase()) ||
     band.city.toLowerCase().includes(searchQuery.toLowerCase()) ||
     band.release.includes(searchQuery)
     )
-  
+
   const onAddArtist = (newArtist) => {
     setArtistList([...artistList, newArtist])
   }
 
   const onDeleteArtist = (deletedArtist) => {
-    const updatedArtists = artistList.filter(band => 
+    const updatedArtists = artistList.filter(band =>
         band.id !== deletedArtist.id
       )
     setArtistList(updatedArtists)
@@ -43,23 +43,26 @@ function App() {
       <NavBar/>
       <Routes>
 
-        <Route path="/" element={<Home artistList={artistList}/>}/>
+        <Route
+          path="/"
+          element={<Home artistList={artistList}/>}
+        />
 
-        <Route 
-          path="/artistslist" 
-          element={<ArtistList 
-                    searchResults={searchResults} 
-                    setSearchQuery={setSearchQuery} 
+        <Route
+          path="/artistslist"
+          element={<ArtistList
+                    searchResults={searchResults}
+                    setSearchQuery={setSearchQuery}
                     onDeleteArtist={onDeleteArtist}
                   />}
         />
 
-        <Route 
+        <Route
           path="/albumslist"
           element={<AlbumList searchResults={searchResults} setSearchQuery={setSearchQuery} />}
         />
 
-        <Route 
+        <Route
           path="/newartist"
           element={<NewArtistForm onAddArtist={onAddArtist}/>}
         />
