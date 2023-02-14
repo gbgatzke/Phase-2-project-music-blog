@@ -21,6 +21,8 @@ function App() {
       .then(list => setArtistList(list))
   },[])
 
+  // Filter database of Artists by multiple keys in the same iteration by using a simple OR operator. Works for values as strings and integers.
+
   const searchResults = artistList.filter(band =>
     band.artist.toLowerCase().includes(searchQuery.toLowerCase()) ||
     band.album.toLowerCase().includes(searchQuery.toLowerCase()) ||
